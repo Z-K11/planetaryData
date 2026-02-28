@@ -9,5 +9,10 @@ This project was super fun because I could organize all the planet facts neatly 
 
 Open index.html in your browser and check out the planets! 🚀
 
-### OH and here is how the table looks!
+### Oh and here is how the table looks!
 !["Planet Table Screenshot"](images/screenshot.png)
+
+### Highly advised 
+For anyone who wants to learn HTML Table layout and semantics for accessibility?
+Please do check out this challenge from [Mocilla Developers Network](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Planet_data_table)
+
